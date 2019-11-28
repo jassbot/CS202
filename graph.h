@@ -1,7 +1,6 @@
 //Jasmine Snyder
 //Program #1 
 //CS202
-//04/29/2019
 //This file contains the classes that manage the Linear Linked List within the graph that display the 
 //obstacles. As well as the doubly linked list class that will manage the actual race of the drones.
 //Many of the functions within the private section of these classes require wrapper functions to be called.
